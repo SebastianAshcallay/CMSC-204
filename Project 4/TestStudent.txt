@@ -1,0 +1,7 @@
+# This is a comment and should not be taken into account by the method
+CMS025 30500 3 SC200 John Brown
+CMS025 3050 3 SC200 John Brown
+CMS025 30500 30000 SC200 John Brown
+CMS025 30500 3 SC200 John2Brown
+CMSC205 30500 3 SC200 John Brown
+CMSC204 40002 3 TE220 Mike Rowan
